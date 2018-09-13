@@ -15,7 +15,7 @@ Escrito por: ROPON PALACIOS G., BSc, MSc(c), 		 				# biodano.geo@gmail.com
 			 $ INSTITUCIÓN: 
 			 Unidad de Bioinformática y Biofísca teórica,
 			 Laboratorio de Genética Molecular, 
-			 Despartamento de Biología, Facultad de Ciencias,
+			 Despartamento de Biología y Física, Facultad de Ciencias,
 			 Universidad Nacional de San Antonio Abad del Cusco, 
 			 Av. La cultura 733, Wanchaq, Cusco, Perú.
 			 Cell: +51 933 324949
