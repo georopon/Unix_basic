@@ -5,15 +5,15 @@ Curso : BIONFORMÁTICA EN LA ERA POST-GENÓMICA
 Módulo 1: Programación y Biolinux  v. 1.0  (2018)
 
 																				E-mails: 
-Escrito por: ROPON PALACIOS G., BSc, MPhil scholar, 		 				# biodano.geo@gmail.com 
-			 RODRIGUEZ LIMA INGRID, BSc      								# ingridgimena02994@gmail.com 
-			 LETONA YURY, Ing, MSc (c) 										# yuryletona@gmail.com
-			 SALGUERO CAMPANA NELSON, 										# ng.salguero.c@gmail.com 
-			 HUMAM SUTTA VIRGINIA, BSc 										# vhuamas131@gmail.com 
-			 ACURIO SAAVEDRA, BSc, MSc 										# jorge.acurio@unsaac.edu.pe
+Escrito por: ROPON PALACIOS G., BSc, MSc(c), 		 				# biodano.geo@gmail.com 
+			 RODRIGUEZ LIMA INGRID, BSc      					# ingridgimena02994@gmail.com 
+			 LETONA YURY, Ing, MSc (c) 						# yuryletona@gmail.com
+			 SALGUERO CAMPANA NELSON, 						# ng.salguero.c@gmail.com 
+			 HUMAM SUTTA VIRGINIA, BSc 						# vhuamas131@gmail.com 
+			 ACURIO SAAVEDRA, BSc, MSc 						# jorge.acurio@unsaac.edu.pe
 
 			 $ INSTITUCIÓN: 
-			 Unidad de Biología de Sistemas y Bioinformática,
+			 Unidad de Bioinformática y Biofísca teórica,
 			 Laboratorio de Genética Molecular, 
 			 Despartamento de Biología, Facultad de Ciencias,
 			 Universidad Nacional de San Antonio Abad del Cusco, 
